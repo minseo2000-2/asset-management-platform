@@ -1,0 +1,10 @@
+/* Vue App Styles */
+@import './variables.css';
+@import './reset.css';
+@import './layout.css';
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background-color: $bg-color;
+  color: $text-color;
+}
